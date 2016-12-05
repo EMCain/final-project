@@ -1,0 +1,5 @@
+1, Animal Farm, George Orwell
+2, The Great Gatsby, F. Scott Fitzgerald
+3, Snow Crash, Neal Stephenson
+4, Revolutionary Road, Richard Yates
+5, White Noise, Din DeLillo
